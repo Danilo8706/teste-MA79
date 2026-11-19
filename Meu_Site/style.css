@@ -1,0 +1,17 @@
+body {
+    background-color:burlywood;
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj2Yt5010iq7z9p-_qM1IOIC43EbhBzIYKpyRoD6CNVA&s=10);
+    
+}
+h1{
+    color:rgb(119, 56, 10)
+}
+#danilo {
+    font-size:22px;
+    color:rgb(95, 70, 6);
+    
+    
+}
+.destaque{
+    color: brown;
+}
